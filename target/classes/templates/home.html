@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="vn" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2 th:utext="${msg}"></h2>
+
+<form th:action="@{/admin/home}" th:method="POST">
+    <input name="id" type="text" placeholder="id">
+    <input name="createdBy" type="text" placeholder="createdby">
+    <input name="modifiedBy" type="text" placeholder="modifiedby" >
+    <input name="createdDate" type="date" placeholder="createddate">
+    <input name="modifiedDate" type="date" placeholder="modifieddate">
+
+    <button>submit</button>
+
+</form>
+
+
+</form>
+</body>
+</html>

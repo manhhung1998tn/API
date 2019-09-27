@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e8f6ed5-661e-4fdc-9938-dbfb64456d7d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1575431802">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ElectronicType" value="1" />
+          <entry key="html" value="26" />
+          <entry key="java" value="275" />
+          <entry key="js" value="1" />
+          <entry key="kt" value="3" />
+          <entry key="properties" value="7" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="26" />
+          <entry key="JAVA" value="276" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Kotlin" value="3" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="50" />
+          <entry key="html" value="1055" />
+          <entry key="java" value="14473" />
+          <entry key="kt" value="155" />
+          <entry key="properties" value="41" />
+          <entry key="xml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1051" />
+          <entry key="JAVA" value="14466" />
+          <entry key="JPA QL" value="7" />
+          <entry key="Kotlin" value="155" />
+          <entry key="PLAIN_TEXT" value="50" />
+          <entry key="Properties" value="41" />
+          <entry key="ThymeleafExpressions" value="4" />
+          <entry key="XML" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/ElectronicDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+                <element signature="e#907#908#0" expanded="true" />
+                <element signature="e#939#940#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/GoodsIssueDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/CPUDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/api/ElectronicAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1240">
+              <caret line="81" column="70" lean-forward="true" selection-start-line="81" selection-start-column="70" selection-end-line="81" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/api/MobileAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/api/LaptopAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/api/GPUAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/GoodsIssue_ElectronicDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/VersionDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/entity/ElectronicEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ver</find>
+      <find>reso</find>
+      <find>id=&quot;sidebar&quot;</find>
+      <find>MENU</find>
+      <find>MEN</find>
+      <find>&lt;!-- /.main-content --&gt;</find>
+      <find>FOOTER</find>
+      <find>navbar</find>
+      <find>src</find>
+      <find>&quot;assets</find>
+      <find>gpu</find>
+      <find>CPU</find>
+      <find>cpu</find>
+      <find>body</find>
+      <find>fonts.googleapis.com.css</find>
+      <find>assets</find>
+      <find>'/ass</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>th:src</replace>
+      <replace>gpu</replace>
+      <replace>Producer</replace>
+      <replace>producer</replace>
+      <replace>/assets</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\wp-java\COP\API\src\main\java</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/conver/ElectronicConver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/TEST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/conver/AbstractConver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/api/LaptopController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/api/CPUController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/api/ElectronicController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/CategoryDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/entity/ElectronicEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/entity/CategoryEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/service/ElectronicService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/BaseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/controller/HomeControler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/menu.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/css.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/blank.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/CPUDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/cpu/view.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/repository/ElectronicRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/repository/custom/ElectronicRepositoryCustom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/entity/CPUEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/conver/CPUConver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/service/CPUService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/api/CPUAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/repository/GPURepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/conver/GPUConver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/controller/GPUController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/service/GPUService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/conver/ProducerConver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/repository/ProducerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/service/ProducerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/controller/ProducerController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/producer/view.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/repository/custom/impl/ElectronicRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/controller/CPUController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/gpu/view.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/lib-header.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/test.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/test.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/controller/ElectronicController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/electronic/add-edit.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/entity/VersionEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/VersionDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/api/ElectronicAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/GoodsIssue_ElectronicDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/GoodsIssueDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/ElectronicDTO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="API" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="API" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+              <item name="com.caigicungco" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+              <item name="com.caigicungco" type="1f31426a:PackageElementNode" />
+              <item name="api" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+              <item name="com.caigicungco" type="1f31426a:PackageElementNode" />
+              <item name="builder" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+              <item name="com.caigicungco" type="1f31426a:PackageElementNode" />
+              <item name="DTO" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+              <item name="com.caigicungco" type="1f31426a:PackageElementNode" />
+              <item name="entity" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+              <item name="com.caigicungco" type="1f31426a:PackageElementNode" />
+              <item name="repository" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+              <item name="static.assets" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+              <item name="templates" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="API" type="58d84e3e:PackageViewProjectNode" />
+              <item name="API" type="616d4139:PackageViewModuleNode" />
+              <item name="templates" type="1f31426a:PackageElementNode" />
+              <item name="cpu" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="ElectronicDT&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/DTO/ElectronicDTO.java&#10;Electronic&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/DTO/ElectronicDTO.java&#10;Version&#9;PSI&#9;JAVA://com.caigicungco.DTO.VersionDTO&#10;producerDT&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/DTO/ProducerDTO.java&#10;ElectronicD&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/DTO/ElectronicDTO.java&#10;electronic&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/controller/ElectronicController.java&#10;appli&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/Application.java&#10;add-edit&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/resources/templates/electronic/add-edit.html&#10;pro&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/resources/application.properties&#10;pom.xml&#9;FILE&#9;file://E:/wp-java/COP/API/pom.xml&#10;Repos&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/repository/custom/ElectronicRepositoryCustom.java&#10;Reposit&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/repository/ProducerRepository.java&#10;GPUEn&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/GPUEntity.java&#10;CPU&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/api/CPUAPI.java&#10;ProducerDT&#9;PSI&#9;JAVA://com.caigicungco.DTO.ProducerDTO&#10;GPUCO&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/controller/GPUController.java&#10;GPUD&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/DTO/GPUDTO.java&#10;gpu/vie&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/resources/templates/gpu/view.html&#10;GPUCo&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/controller/GPUController.java&#10;CPUSer&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/service/CPUService.java&#10;CPUEn&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/CPUEntity.java&#10;CPUC&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/controller/CPUController.java&#10;CPUE&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/CPUEntity.java&#10;GPUCON&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/controller/GPUController.java&#10;CPUContro&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/controller/CPUController.java&#10;CPUAP&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/api/CPUAPI.java&#10;ElectronicEN&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/ElectronicEntity.java&#10;CPUEN&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/CPUEntity.java&#10;CPUD&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/DTO/CPUDTO.java&#10;CPUDTO&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/DTO/CPUDTO.java&#10;view&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/resources/templates/cpu/view.html&#10;Ap&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/Application.java&#10;ElectronicSe&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/service/ElectronicService.java&#10;ElectronicRe&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/repository/ElectronicRepository.java&#10;ElectroRe&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/repository/custom/impl/ElectronicRepositoryImpl.java&#10;Cate&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/CategoryEntity.java&#10;Elec&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/ElectronicEntity.java&#10;ap&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/Application.java&#10;ElectronicE&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/ElectronicEntity.java&#10;CPUCo&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/api/CPUController.java&#10;Electr&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/api/ElectronicController.java&#10;ElectronicC&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/conver/ElectronicConver.java&#10;Servi&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/service/ElectronicService.java&#10;DTO&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/DTO/ElectronicDTO.java&#10;ElectronicCo&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/api/ElectronicController.java&#10;UserEn&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/UserEntity.java&#10;Se&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/service/ElectronicService.java&#10;Conver&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/conver/AbstractConver.java&#10;Entity&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/entity/ElectronicEntity.java&#10;HomeC&#9;FILE&#9;file://E:/wp-java/COP/API/src/main/java/com/caigicungco/api/HomeController.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569603286626" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\wp-java\COP\API\src\main\resources\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wp-java\COP\API\src\main\resources\templates\fragments" />
+      <recent name="E:\wp-java\COP\API\src\main\resources\templates" />
+      <recent name="E:\wp-java\COP\API\src\main\resources\static" />
+      <recent name="E:\wp-java\COP\API\src\main\java\com\caigicungco\Entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.caigicungco.controller" />
+      <recent name="com.caigicungco.service" />
+      <recent name="com.caigicungco.repository" />
+      <recent name="com.caigicungco.conver" />
+      <recent name="com.caigicungco.entity" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.caigicungco.conver" />
+      <recent name="com.caigicungco.repository" />
+      <recent name="com.caigicungco.service" />
+      <recent name="com.caigicungco.DTO" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.caigicungco.TEST" />
+      <module name="API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.caigicungco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="API" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.caigicungco.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Application.TEST" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TEST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e8f6ed5-661e-4fdc-9938-dbfb64456d7d" name="Default Changelist" comment="" />
+      <created>1567502505573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567502505573</updated>
+      <workItem from="1567502509795" duration="3039000" />
+      <workItem from="1567518456726" duration="22000" />
+      <workItem from="1567553920527" duration="521000" />
+      <workItem from="1567561195758" duration="3508000" />
+      <workItem from="1567575537637" duration="4624000" />
+      <workItem from="1567584786535" duration="5085000" />
+      <workItem from="1567608272514" duration="1209000" />
+      <workItem from="1567679830925" duration="1475000" />
+      <workItem from="1567757476398" duration="5853000" />
+      <workItem from="1567767773343" duration="9558000" />
+      <workItem from="1567858910791" duration="1135000" />
+      <workItem from="1567921166452" duration="48000" />
+      <workItem from="1567922324686" duration="412000" />
+      <workItem from="1568008414740" duration="361000" />
+      <workItem from="1568105453331" duration="1731000" />
+      <workItem from="1568183158485" duration="1645000" />
+      <workItem from="1568189143263" duration="2353000" />
+      <workItem from="1568203057410" duration="19842000" />
+      <workItem from="1568291882019" duration="1614000" />
+      <workItem from="1568361526790" duration="6274000" />
+      <workItem from="1568371784439" duration="660000" />
+      <workItem from="1568526072464" duration="5801000" />
+      <workItem from="1568705073498" duration="1975000" />
+      <workItem from="1568903351089" duration="1294000" />
+      <workItem from="1568917002477" duration="3201000" />
+      <workItem from="1569044070776" duration="2380000" />
+      <workItem from="1569232052245" duration="20657000" />
+      <workItem from="1569309420286" duration="6572000" />
+      <workItem from="1569430801370" duration="1927000" />
+      <workItem from="1569484324092" duration="8559000" />
+      <workItem from="1569571483831" duration="4736000" />
+      <workItem from="1569597349257" duration="2929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="131000000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.178762" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33261105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18380743" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caigicungco/TEST.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/controller/HomeControler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/repository/ElectronicRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/repository/CPURepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/conver/CPUConver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2120">
+          <caret line="138" column="56" selection-start-line="138" selection-start-column="56" selection-end-line="138" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/repository/GPURepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="67" lean-forward="true" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/conver/ElectronicConver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#toDTO#0;class#ElectronicConver#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/conver/GPUConver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/service/CPUService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="49" column="26" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/GPUDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/service/GPUService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/conver/ProducerConver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/service/ProducerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/controller/ProducerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/producer/view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6160">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/cpu/view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="198" column="83" lean-forward="true" selection-start-line="198" selection-start-column="83" selection-end-line="198" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/entity/GPUEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="58" lean-forward="true" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/repository/ProducerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/repository/custom/ElectronicRepositoryCustom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/repository/custom/impl/ElectronicRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/controller/CPUController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="69" column="21" lean-forward="true" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16440">
+          <caret line="822" selection-start-line="822" selection-end-line="1365" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#3;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#20630#20636#0" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#0;n#div#1;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#2;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#3;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#5;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#6;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#36250#36256#0" expanded="true" />
+            <element signature="e#36298#36304#0" expanded="true" />
+            <element signature="e#36305#36311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/lib-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/lib-header-bk.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/gpu/view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/controller/ElectronicController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/controller/GPUController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/electronic/add-edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="218" column="38" selection-start-line="218" selection-start-column="38" selection-end-line="218" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#0;n#div#1;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#2;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#3;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#5;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#6;n#div#0;n#div#5;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/ProducerDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/api/CPUAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/entity/VersionEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/entity/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/entity/CategoryEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/entity/CPUEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/entity/ElectronicEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/VersionDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/CPUDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/GoodsIssue_ElectronicDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/GoodsIssueDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/api/MobileAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/api/LaptopAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/api/GPUAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/api/ElectronicAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="81" column="70" lean-forward="true" selection-start-line="81" selection-start-column="70" selection-end-line="81" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caigicungco/DTO/ElectronicDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
